@@ -1,0 +1,30 @@
+#name{
+    float: left;
+    background: #00A499;
+    padding: 18px; 
+    text-align: center;
+    font-weight: bold;
+
+}
+#bio-image {
+    float: left;
+    width: 200px;
+    height: 180px;
+    margin-right: 2%;
+}
+#header{
+    width: 960px;
+    height: 50px;
+    margin:0 auto; 
+}
+#nav {
+	display: inline-block;
+}
+
+ul#menu li{
+    display: inline;
+}
+ul#menu  li a:hover {
+	color: #00A499;
+}
+
